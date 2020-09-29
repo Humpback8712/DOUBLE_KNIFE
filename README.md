@@ -19,6 +19,6 @@
 
 
 
-![WechatIMG19038f9.jpg](http://www.s3tu.com/images/2020/09/29/WechatIMG19038f9.jpg)
+![WechatIMG19](./WechatIMG19.jpeg)
 
 欢迎讨论
