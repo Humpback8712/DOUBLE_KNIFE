@@ -17,8 +17,8 @@
 
 如果对这个项目感兴趣，欢迎 folk 和 star ！
 
+![image](https://github.com/Humpback8712/DOUBLE_KNIFE/image/wechat.jpeg)
 
 
-![WechatIMG19](./WechatIMG19.jpeg)
 
-欢迎讨论
+欢迎讨论（加微信请备注GITHUB）
