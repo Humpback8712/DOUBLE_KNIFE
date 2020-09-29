@@ -13,7 +13,7 @@ Vue.prototype.$message = Message
 Vue.prototype.$alert = MessageBox.alert
 Vue.prototype.$prompt = MessageBox.prompt
 // 可以配置请求的根路径
-// axios.defaults.baseURL = '请求根路径'
+// axios.defaults.baseURL = '127.0.0.1'
 new Vue({
   router,
   render: h => h(App)
